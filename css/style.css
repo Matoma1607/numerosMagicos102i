@@ -1,9 +1,29 @@
-body{
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
-main{
-    flex-grow: 1;
+main {
+  flex-grow: 1;
+}
+
+.bg-body-degrade {
+  background-color: #080829;
+  background-image: linear-gradient(
+    43deg,
+    #080829 0%,
+    #b73bb0 46%,
+    #b9860e 100%
+  );
+}
+
+.bg-degrade {
+  background-color: #de7810;
+  background-image: linear-gradient(
+    43deg,
+    #de7810 0%,
+    #944392 46%,
+    #0509ff 100%
+  );
 }
