@@ -27,3 +27,12 @@ main {
     #0509ff 100%
   );
 }
+.principal{
+    background-image: url(../img/foto2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
+    object-fit: cover;
+}
