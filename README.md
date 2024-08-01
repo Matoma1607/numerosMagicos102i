@@ -12,6 +12,7 @@ Esta aplicación web genera un numero aleatorio entre 1 y 100 al iniciar el jueg
 
 ## Instalacion
 1. Clona este repositorio en tu máquina local.
+[Git hub](https://github.com/Matoma1607/numerosMagicos102i.git)
 1. Navega hasta el directorio del proyecto.
 1. Abre el archivo en tu navegador web.
 
